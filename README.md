@@ -44,3 +44,19 @@ The tracker sends its state over UDP (127.0.0.1:4242) to `scripts/face_input.gd`
 Art lives in `assets/` (alien, astronaut, station interior, animated space background).
 
 See `AGENTS.md` for the full game rules and project conventions.
+
+
+
+## Gameplay Screenshots
+
+### Exploring the ISS
+![ISS gameplay](screenshots/gameplay-start.png)
+
+### Alien Encounter
+![Alien hunting the player](screenshots/alien-encounter.png)
+
+### Game Over
+![Game over screen](screenshots/game-over.png)
+
+### Stunning the Alien and Repairing Systems
+![Stun and repair gameplay](screenshots/stun-and-repair.png)
