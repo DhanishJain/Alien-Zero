@@ -46,17 +46,16 @@ Art lives in `assets/` (alien, astronaut, station interior, animated space backg
 See `AGENTS.md` for the full game rules and project conventions.
 
 
-
 ## Gameplay Screenshots
 
 ### Exploring the ISS
-![ISS gameplay](screenshots/gameplay-start.png)
+![ISS gameplay](gameplay-start.jpg)
 
 ### Alien Encounter
-![Alien hunting the player](screenshots/alien-encounter.png)
+![Alien hunting the player](alien-encounter.jpg)
 
 ### Game Over
-![Game over screen](screenshots/game-over.png)
+![Game over screen](game-over.jpg)
 
 ### Stunning the Alien and Repairing Systems
-![Stun and repair gameplay](screenshots/stun-and-repair.png)
+![Stun and repair gameplay](stun-and-repair.jpg)
